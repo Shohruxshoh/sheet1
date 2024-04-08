@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'sheet',
     'rest_framework',
-    'google1',
 ]
 
 MIDDLEWARE = [
